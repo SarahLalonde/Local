@@ -1,0 +1,18 @@
+body{
+	background-color: #FF4719
+}
+h1{
+	font-size: 25px;
+	font-family:Arial;
+	color: white;
+}
+p{
+	color:white;
+	font-family: Tahoma;
+
+}
+img{
+	border:10px;
+	border-color:white;
+	margin-left: 20px;
+}
